@@ -1,3 +1,6 @@
+## 아키텍쳐
+  ![아키텍쳐](https://github.com/j-up/ComposeKaKaoImage/assets/51228811/24a41290-2bf8-4cda-a0a8-9023451dc758)
+
 ## 검색화면 (Default, DarkMode)
   ![화이트](https://github.com/j-up/ComposeKaKaoImage/assets/51228811/573e2917-6372-49aa-a659-a34f404d8045) 
   ![블랙](https://github.com/j-up/ComposeKaKaoImage/assets/51228811/d61cd7c2-a066-4123-8257-8212bd3f4805)
