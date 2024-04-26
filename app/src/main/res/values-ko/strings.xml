@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">이미지</string>
+    <string name="screen_search_title">검색</string>
+    <string name="screen_bookmark_title">북마크</string>
+    <string name="text_input_label">텍스트를 입력하세요</string>
+    <string name="bookmark_result_empty">북마크 결과가 없습니다.</string>
+    <string name="search_result_empty">검색 결과가 없습니다.</string>
+    <string name="search_result_error">에러 발생</string>
+    <string name="tab_tile_search">검색</string>
+    <string name="tab_tile_bookmark">북마크</string>
+</resources>

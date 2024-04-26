@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">image</string>
+    <string name="screen_search_title">search</string>
+    <string name="screen_bookmark_title">bookmark</string>
+    <string name="text_input_label">Please enter your text</string>
+    <string name="bookmark_result_empty">No results were found for your bookmark.</string>
+    <string name="search_result_empty">No results were found for your search.</string>
+    <string name="search_result_error">An error occurred</string>
+    <string name="tab_tile_search">search</string>
+    <string name="tab_tile_bookmark">bookmark</string>
+</resources>
